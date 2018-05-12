@@ -1,0 +1,26 @@
+_repo: Stories-from-Northern-Myths_46288
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46288-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baker, Emilie K. (Emilie Kip)
+    alias: Baker, Emilie Kip
+    gutenberg_agent_id: '2407'
+    url: http://www.gutenberg.org/2009/agents/2407
+description: ''
+gutenberg_issued: '2014-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46288'
+  lccn: '14016569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Mythology, Norse'
+title: Stories from Northern Myths
+url: http://www.gutenberg.org/ebooks/46288
